@@ -1,0 +1,7 @@
+{
+    "name": "quadrotor_nav_acados_drone_FrenSer_QP.json",
+    "N": 50,
+    "has_slacks": false,
+    "has_masks": true,
+    "has_idxs_rev_not_idxs": false
+}

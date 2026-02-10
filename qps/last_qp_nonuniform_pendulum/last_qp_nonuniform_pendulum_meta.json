@@ -1,0 +1,6 @@
+{
+    "name": "qps_last_qp_nonuniform_pendulum.json",
+    "N": 7,
+    "has_slacks": false,
+    "has_masks": false
+}
