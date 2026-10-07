@@ -1,8 +1,0 @@
-{
-    "name": "regulator_indefinite_QPs_furuta_cons_FU_INDE_RE_INDE_status_2_iter_19.json",
-    "N": 20,
-    "has_slacks": false,
-    "has_masks": false,
-    "has_idxs_rev_not_idxs": false,
-    "definiteness": "indefinite"
-}
